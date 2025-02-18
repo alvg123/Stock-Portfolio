@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<portfolio>
+  <portfolioName>qwerty</portfolioName>
+  <stocks>
+    <stock>
+      <ticker>GS</ticker>
+      <date>2024-06-06</date>
+      <close-price>458.1</close-price>
+      <Amount-of-stock>2.0</Amount-of-stock>
+    </stock>
+  </stocks>
+</portfolio>
