@@ -1,0 +1,1 @@
+A stock simulator that allows users to buy and sell hypothetical stocks by specifying the ticker, number of shares, and dates, allowing to save them in a stock portfolio. This was done through the use of API that brings the latest infomaation on a company's stocks.
